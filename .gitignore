@@ -1,3 +1,7 @@
 # 실험 후 보고서 docx는 저장소에 올리지 않는다
 *.docx
 ~$*.docx
+
+# 실험 당일 본인 노트북 진단용 프로젝트(본인 XDC 포함)와 로컬 설정은 올리지 않는다
+lab6_task6_fpga/
+stm32_lab/.clangd

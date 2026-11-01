@@ -51,7 +51,11 @@ void ece2_474_init(void)
 /* 메인 루프에서 반복해서 호출됩니다. */
 void polling_routine(void)
 {
-    /* 실습 코드 작성 */
+    int ch = getchar();
+    if (ch != EOF)
+    {
+        printf("char: %c, byte: 0x%02X\r\n", ch, (unsigned int)ch);
+    }
 }
 
 /* 1. 사용자 버튼 PC13을 눌렀을 때 호출됩니다. 우선순위: 7.
