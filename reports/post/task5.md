@@ -2,7 +2,7 @@
 
 - 작성자: 박건우 (2025440050), G조
 - 실험일: 2026-10-26
-- 소스 커밋: {{COMMIT_URL}}
+- 소스 커밋: [606cf6f](https://github.com/bandnewbie/UOS_ECE_project6/commit/606cf6ff48ed1983425050aa7d5699db71c9a81f)
 - 보드: NUCLEO-G474RE, UART2(VCP, COM8) 9600 8N1, 줄 끝 없음
 - 코드: [task5_ece2_474_routine.c](../../stm32_2_tasks/task5_ece2_474_routine.c)
 - 수행 PC: 본인 노트북
@@ -20,4 +20,4 @@
 ![첫 실행](<../../evidence/task5/board/task5_first_run.png>)
 - [task5.mp4](<../../evidence/task5/board/task5.mp4>) (영문 문구, A·a·1 전송)
 
-작성일: {{DATE}}
+작성일: 2026-11-02

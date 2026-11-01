@@ -2,7 +2,7 @@
 
 - 작성자: 박건우 (2025440050), G조
 - 실험일: 2026-10-26
-- 소스 커밋: {{COMMIT_URL}}
+- 소스 커밋: [606cf6f](https://github.com/bandnewbie/UOS_ECE_project6/commit/606cf6ff48ed1983425050aa7d5699db71c9a81f)
 - 경로: PC → VCP → MCU PC10(UART3 TX) → FPGA 확장 GPIO BDIO_08(C8, J11) → FPGA F6 USB-UART → PC, GND 공통(J6), DIP 2 ON
 - MCU 코드: [task6_ece2_474_routine.c](../../stm32_2_tasks/task6_ece2_474_routine.c)
 - 수행 PC: MCU 쪽은 본인 노트북, FPGA 수신 확인은 조원 노트북 (FPGA 코드·XDC는 조원 작성)
@@ -21,4 +21,4 @@
 ![배선](<../../evidence/task6/board/wiring.jpg>)
 - 영상: [task6_7.mp4](<../../evidence/task7/board/task6_7.mp4>)
 
-작성일: {{DATE}}
+작성일: 2026-11-02

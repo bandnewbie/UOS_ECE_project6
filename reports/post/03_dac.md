@@ -2,7 +2,7 @@
 
 - 작성자: 박건우 (2025440050), G조
 - 실험일: 2026-10-26
-- 소스 커밋: {{COMMIT_URL}}
+- 소스 커밋: [606cf6f](https://github.com/bandnewbie/UOS_ECE_project6/commit/606cf6ff48ed1983425050aa7d5699db71c9a81f)
 - 설계: [lab6_03_dac](../../lab6_03_dac) (본인 코드, 교안 FPGA_additional.md), top dac
 - 보드 기록: 조원 노트북, 조원 코드·XDC
 
@@ -21,4 +21,4 @@ write_bitstream Complete, Failed Routes 0.
 LED 8비트 값과 전압 표시가 값에 따라 바뀌었고, 스위치로 채널을 바꿨다.
 - 영상: [dac.mp4](<../../evidence/03/board/dac.mp4>)
 
-작성일: {{DATE}}
+작성일: 2026-11-02

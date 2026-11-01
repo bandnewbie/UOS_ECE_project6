@@ -2,7 +2,7 @@
 
 - 작성자: 박건우 (2025440050), G조
 - 실험일: 2026-10-26
-- 소스 커밋: {{COMMIT_URL}}
+- 소스 커밋: [606cf6f](https://github.com/bandnewbie/UOS_ECE_project6/commit/606cf6ff48ed1983425050aa7d5699db71c9a81f)
 - MCU 코드: [task7_ece2_474_routine.c](../../stm32_2_tasks/task7_ece2_474_routine.c)
 - 본인 FPGA 코드: [task7_fpga](../../stm32_2_tasks/task7_fpga) (top lab6_uart_led, XDC는 조원 작성이라 미포함)
 - 수행 PC: 조원 노트북 (보드에 기록한 FPGA 코드·XDC는 조원 작성)
@@ -23,4 +23,4 @@ Vivado 시뮬레이션: 31,31,32,32,78,30,01 전송 시 LED 기대값 1,1,0,1,1,
 ![LED1 켜짐](<../../evidence/task7/board/led1_on.jpg>)
 - 영상: [task6_7.mp4](<../../evidence/task7/board/task6_7.mp4>)
 
-작성일: {{DATE}}
+작성일: 2026-11-02
